@@ -1,0 +1,17 @@
+#SNAKE TO DO
+1) Create start screen
+    - Require any key to skip a background/start screen for snake to start moving
+2) Create end screen
+3) Restart button
+    - Should be easy to bind a reset to r_down
+4) Collision with itself
+    - Might have to save snake position in a vector and update as it moves to have it collide with old positions
+    - Google smarter method you idiot
+5) Better sprite
+    - Doesn't leave tongue as it moves
+6) Music?
+    - No?
+7) Add item to collect
+    - Longterm
+8) Win screen
+    - Good joke
